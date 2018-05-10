@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAIN HUB","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"THE ROSE PALACE","order":3,"parentId":13,"scrollX":1056,"scrollY":914},
+{"id":1,"expanded":true,"name":"MAIN HUB","order":1,"parentId":0,"scrollX":1134.857142857143,"scrollY":913.7142857142857},
+{"id":2,"expanded":true,"name":"THE ROSE PALACE","order":3,"parentId":13,"scrollX":1134.857142857143,"scrollY":913.7142857142857},
 {"id":3,"expanded":true,"name":"VIP TEST","order":4,"parentId":2,"scrollX":1134.857142857143,"scrollY":913.7142857142857},
 {"id":4,"expanded":false,"name":"ROSE PALACE TEST","order":8,"parentId":13,"scrollX":1134.857142857143,"scrollY":913.7142857142857},
 {"id":5,"expanded":false,"name":"SLUMS TEST","order":7,"parentId":2,"scrollX":1134.857142857143,"scrollY":1076.5714285714284},
