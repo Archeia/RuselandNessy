@@ -11,7 +11,7 @@ null,
 {"id":9,"expanded":false,"name":"LOLI SHOP TEST","order":11,"parentId":8,"scrollX":1134.857142857143,"scrollY":913.7142857142857},
 {"id":10,"expanded":true,"name":"HOUSE 1","order":12,"parentId":8,"scrollX":832,"scrollY":640},
 {"id":11,"expanded":false,"name":"CITY HALL","order":13,"parentId":8,"scrollX":1134.857142857143,"scrollY":913.7142857142857},
-{"id":12,"expanded":false,"name":"STONE CAVE TEST","order":14,"parentId":0,"scrollX":1134.857142857143,"scrollY":913.7142857142857},
+{"id":12,"expanded":false,"name":"STONE CAVE TEST","order":14,"parentId":0,"scrollX":1134.857142857143,"scrollY":1077.4285714285713},
 {"id":13,"expanded":true,"name":"SLUMS","order":2,"parentId":1,"scrollX":1056,"scrollY":930},
 {"id":14,"expanded":false,"name":"LAB TEST","order":6,"parentId":6,"scrollX":832,"scrollY":640},
 {"id":15,"expanded":false,"name":"CHECK ARCHEIA","order":15,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
